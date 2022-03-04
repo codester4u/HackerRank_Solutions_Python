@@ -1,8 +1,4 @@
-Hey You, Welcome!!
-
-In this repository you'll find solutions to Hackerrank Problems under the Python domain.
-
-This repository is just for reference if you couldn't solve the problems yourself. So, Before you go through the solutions, try it yourselves.
-
-
-Each folder is named after the category. Each folder has python programs with '.py' extension. The question is also added in the comment section of the program.
+## Hey You, Welcome!!
+### Solutions to Hackerrank Problems in the Python can be found in this repository.
+If you are unable to address the difficulties on your own, you may use this repository as a resource. So, before you go through the solutions, give it a shot.
+Each folder is labeled with the category's name. Python applications with the '.py' extension can be found in each folder. The question is also included in the program's comment area.
